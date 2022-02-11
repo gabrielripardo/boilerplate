@@ -1,0 +1,6 @@
+Styled Component:
+    - Fazer com que o css entre a crase fique destacado
+    - Criar primeiro estilo com o Styled component
+
+Jest:
+    - Criar um teste funcional utilizando o snapshot e o getByRole @done
