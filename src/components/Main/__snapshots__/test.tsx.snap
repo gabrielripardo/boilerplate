@@ -1,70 +1,27 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main/> should render the heading 1`] = `
-.c0 {
-  background-color: #06092b;
-  color: #fff;
-  width: 100%;
-  height: 100vh;
-  text-align: center;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  padding: 3rem;
-}
-
-.c1 {
-  width: 25rem;
-  margin-bottom: 2rem;
-}
-
-.c2 {
-  font-size: 2.5rem;
-}
-
-.c3 {
-  font-size: 2rem;
-  font-weight: 400;
-}
-
-.c4 {
-  margin-top: 3rem;
-  width: min(30rem,100%);
-}
-
 <main
-  class="c0"
+  class="styles__Wrapper-sc-dzx1ao-0 eWRUJH"
 >
   <img
     alt="Imagem de um átomo e R avançado escrito ao lado."
-    class="c1"
+    class="styles__Logo-sc-dzx1ao-1 fqmfdP"
     src="/img/logo.svg"
   />
   <h1
-    class="c2"
+    class="styles__Title-sc-dzx1ao-2 iwViSR"
   >
     React Avançado
   </h1>
   <h2
-    class="c3"
+    class="styles__Description-sc-dzx1ao-3 filQvO"
   >
     Typescript, React JS, Next JS e Styled Components
   </h2>
   <img
     alt="Um desenvolvedor de frente para uma tela com código."
-    class="c4"
+    class="styles__Illustration-sc-dzx1ao-4 dZrGPP"
     src="/img/hero-illustration.svg"
   />
 </main>
